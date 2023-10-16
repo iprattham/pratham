@@ -7,12 +7,17 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/prathamaggarwal/" target="blank"><img src="https://img.shields.io/badge/know%20me-more!-me?style=for-the-badge&logo=linkedin&labelColor=hex&color=orange&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fprathamaggarwal%2F" alt="prathamaggarwal"/></a> </p>
 
+### 💫 About Me:
+
+- 🔭 I’m currently working on Projects
+  
 - 🌱 I’m currently learning **Python, C++, C#**
 
-- 💬 Ask me about **C, Web Dev.**
+- 🧠 Ask me about **C, Web Dev.**
 
 - 📫 How to reach me **aggarwalpratham2602@gmail.com**
 
+I've been learning coding for about 2-3 years, I started with HTML and CSS and this is where I found my passion. I'm currently pursuing BCA and excelling in Frontend Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, looking forward to learn Backend Development! 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +30,7 @@
 
 <img align="right" width="150" height="180" alt="work from home" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"></a>
 ### Some Fun Facts about me:
-I've experience in various fields of work:zap: I love watching films & series and you'll mostly find me listening to music while coding! My hobbies include singing, gaming and swimming. With this, make sure you follow my socials to know more about me & for a super quick response, jump into my mail or DM me on LinkedIn or Instagram.
+I've experience in various fields of work:zap: I love watching films & series 🎥 and you'll mostly find me listening to music 🎵 while coding! My hobbies include singing, gaming 🎮 and swimming. With this, make sure you follow my socials to know more about me & for a super quick response, jump into my mail or DM me on LinkedIn or Instagram.
 
 
 <h3 align="left">Languages and Tools:</h3>
