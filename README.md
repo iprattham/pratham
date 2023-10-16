@@ -17,9 +17,9 @@
 
 - 📫 How to reach me **aggarwalpratham2602@gmail.com**
 
-I've been learning coding for about 2-3 years, I started with HTML and CSS and this is where I found my passion. I'm currently pursuing BCA and excelling in Frontend Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, looking forward to learn Backend Development! 🚀
+I've been learning coding for about 2-3 years 💻, I started with HTML and CSS and this is where I found my passion. I'm currently pursuing BCA and excelling in Frontend Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, looking forward to learn Backend Development! 🚀
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with me:
 <p align="left">
 <a href="https://open.spotify.com/user/vdqqcf54hghri5vd1uhxk2hw7" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/768px-Spotify_icon.svg.png" alt="pratham" height="36" width="36"/></a>
 <a href="https://www.linkedin.com/in/prathamaggarwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamaggarwal" height="31" width="36"/></a>
@@ -29,8 +29,8 @@ I've been learning coding for about 2-3 years, I started with HTML and CSS and t
 
 
 <img align="right" width="150" height="180" alt="work from home" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"></a>
-### Some Fun Facts about me:
-I've experience in various fields of work:zap: I love watching films & series 🎥 and you'll mostly find me listening to music 🎵 while coding! My hobbies include singing, gaming 🎮 and swimming. With this, make sure you follow my socials to know more about me & for a super quick response, jump into my mail or DM me on LinkedIn or Instagram.
+### 👻 Some Fun Facts about me:
+I've experience in various fields of work:zap: I love watching films & series 🎥 and you'll mostly find me listening to music 🎵 while coding! My hobbies include singing, gaming 🎮 and swimming 🏊🏻‍♂️. With this, make sure you follow my socials to know more about me & for a super quick response, jump into my mail or DM me on LinkedIn or Instagram 💭
 
 
 <h3 align="left">Languages and Tools:</h3>
