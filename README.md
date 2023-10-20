@@ -31,8 +31,8 @@ I've been learning coding for about 2-3 years, I started with HTML and CSS and t
 
 
 <img align="right" width="150" height="180" alt="work from home" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"></a>
-### 👻🐬 Some Fun Facts about me:
-I've experience in various fields of work:zap: I love watching films & series 🎥 and you'll mostly find me listening to music 🎵 while coding! My hobbies include singing, gaming 🎮, travelling 🌍, and swimming 🏊🏻‍♂️. With this, make sure you follow my socials to know more about me & for a super quick response, jump into my mail or DM me on LinkedIn or Instagram. 💭
+### 👻 Some Fun Facts about me:
+I've experience in various fields of work:zap: I love watching films & series 🎥 and you'll mostly find me listening to music 🎵 while coding! My hobbies include singing, gaming 🎮, travelling 🌍, and swimming 🏊🏻‍♂️. With this, make sure you follow my socials to know more about me & for a super quick response, jump into my mail or DM me on LinkedIn or Instagram.🐬
 
 
 ### 🌐 Languages and Tools:
@@ -42,10 +42,9 @@ I've experience in various fields of work:zap: I love watching films & series �
 ### 📊 My Github Stats
 <p align="center">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pratham's streak" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iprattham&layout=compact&theme=vision-friendly-dark">
-    </a>
 </p>
 </>
-    <a href="https://github.com/TridibD004/github-readme-stats"><img alt="Pratham's Top Languages" src="https://github-readme-stats.vercel.app/api?username=iprattham&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark"></a>
-    <a href="https://github.com/TridibD004/github-readme-stats"><img alt="Pratham's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=iprattham&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark"></a>
-
+    <a href="bit.ly/3Q8aCMs"> <img alt="Pratham's Top Languages" src="https://github-readme-stats.vercel.app/api?username=iprattham&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark"></a>
+    <a href="bit.ly/3tL16ra"> <img alt="Pratham's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=iprattham&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark"></a>
+<br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
