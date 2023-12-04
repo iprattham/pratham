@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋, I'm Pratham Aggarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-Rules mtlb rules, follow na kre te fools & fools go back to schooolol!
+Rules mtlb rules, follow na kre te fools & fools go back to schoooll!
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" style = "border-radius: 75px">
 
