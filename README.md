@@ -1,8 +1,6 @@
 <h1 align="center">HeyðŸ‘‹, I'm Pratham Aggarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-Rules mtlb rules, follow na kre te fools & fools go back to school..!!
-
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" style = "border-radius: 75px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iprattham&label=Profile%20views&color=green&style=flat" alt="iprattham"/> </p>
@@ -48,3 +46,6 @@ I've experience in various fields of work:zap: I love watching films & series ðŸ
     <a href> <img title="Pratham's Top Languages" alt="Pratham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=iprattham&show_icons=true&locale=en&layout=compact&langs_count=8&theme=vision-friendly-dark"></a>
     <br>
   <b>Note:</b> Top languages are only a metric for the languages my public code consists of, and doesn't reflect experience or skill level.
+
+
+  Rules mtlb rules, follow na kre te fools & fools go back to school..!!
