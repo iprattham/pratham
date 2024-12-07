@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **aggarwalpratham2602@gmail.com**
 
-I've been learning coding for about 2-3 years, I started with HTML and CSS and this is where I found my passion. I'm currently pursuing BCA and excelling in Frontend Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, looking forward to learn Backend Development! 🚀
+I've been learning coding for about 3-4 years, I started with HTML and CSS and this is where I found my passion. I'm currently pursuing BCA and excelling in Frontend Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, looking forward to learn Backend Development! 🚀
 
 ### 💻 Connect with me:
 <p align="left">
