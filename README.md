@@ -13,7 +13,7 @@
   
 - 🌱 I’m currently learning **Python, C++, Java**
 
-- 🧠 Ask me about **C, Web Dev.**
+- 🧠 Ask me about **Python, C, Web Dev.**
 
 - 📫 How to reach me **aggarwalpratham2602@gmail.com**
 
