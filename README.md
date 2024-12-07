@@ -9,7 +9,7 @@
 
 ### 💫 About Me:
 
-- 🔭 I’m currently working on Projects
+- 🔭 I’m currently working on some amazing Projects!
   
 - 🌱 I’m currently learning **Python, C++, C#**
 
