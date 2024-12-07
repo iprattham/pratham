@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on some amazing Projects!
   
-- 🌱 I’m currently learning **Python, C++, C#**
+- 🌱 I’m currently learning **Python, C++, Java**
 
 - 🧠 Ask me about **C, Web Dev.**
 
