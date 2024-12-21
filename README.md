@@ -50,4 +50,4 @@ I've experience in various fields of work:zap: I love watching films & series ðŸ
 
   Rules mtlb rules, follow na kre te fools & fools go back to school.
 
-streak is 
+streak is back ðŸ¥¹
